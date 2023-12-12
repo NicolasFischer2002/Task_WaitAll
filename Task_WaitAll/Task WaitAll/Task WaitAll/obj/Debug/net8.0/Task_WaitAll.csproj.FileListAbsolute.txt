@@ -1,0 +1,28 @@
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\bin\Debug\net8.0\Task_WaitAll.exe
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\bin\Debug\net8.0\Task_WaitAll.deps.json
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\bin\Debug\net8.0\Task_WaitAll.runtimeconfig.json
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\bin\Debug\net8.0\Task_WaitAll.dll
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\bin\Debug\net8.0\Task_WaitAll.pdb
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.AssemblyInfo.cs
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.dll
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\refint\Task_WaitAll.dll
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.pdb
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.genruntimeconfig.cache
+C:\Desenvolvimento\Task WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\ref\Task_WaitAll.dll
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\bin\Debug\net8.0\Task_WaitAll.exe
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\bin\Debug\net8.0\Task_WaitAll.deps.json
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\bin\Debug\net8.0\Task_WaitAll.runtimeconfig.json
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\bin\Debug\net8.0\Task_WaitAll.dll
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\bin\Debug\net8.0\Task_WaitAll.pdb
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.AssemblyInfo.cs
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.dll
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\refint\Task_WaitAll.dll
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.pdb
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\Task_WaitAll.genruntimeconfig.cache
+C:\Desenvolvimento\Task_WaitAll\Task WaitAll\Task WaitAll\obj\Debug\net8.0\ref\Task_WaitAll.dll
