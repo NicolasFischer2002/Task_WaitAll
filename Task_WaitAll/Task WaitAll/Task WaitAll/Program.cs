@@ -10,9 +10,9 @@ try
 
     string[] Paises = ["1 - Estados Unidos", "2 - China", "3 - Japão", "4 - Alemanha", "5 - Índia"];
 
-    // <===== Em versões anteriores do .NET pode ser necessário declarar as tasks desta forma dentro do array =====> //
-    // Task.Run(() => Exemplos.EscreveCidades_async(cidades));
-    // Task.Run(() => Exemplos.EscrevePaises_async(Paises));
+    // <===== Forma alternativa de declarar as tasks dentro do array =====> //
+    // Task.Run(() => Exemplos.EscreveCidades_async(cidades)),
+    // Task.Run(() => Exemplos.EscrevePaises_async(Paises))
 
     Task[] tasks =
     [
