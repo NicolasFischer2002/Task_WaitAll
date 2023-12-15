@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_WaitAll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+338dd8be7537199277bca673f2ab1315d47f21f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_WaitAll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_WaitAll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
